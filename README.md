@@ -1,2 +1,2 @@
-# SPCIS
-Prototype implementation of a stealthy and privacy-preserving cybersecurity information sharing mechanism
+# PRACIS
+Prototype implementation of a Privacy-pReserving and Aggregatable Cybersecurity Information Sharing mechanism
